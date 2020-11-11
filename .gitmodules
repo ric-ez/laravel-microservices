@@ -1,0 +1,6 @@
+[submodule "main"]
+	path = main
+	url = https://github.com/ric-ez/laravel-microservices-main.git
+[submodule "admin"]
+	path = admin
+	url = https://github.com/ric-ez/laravel-microservices-admin.git
