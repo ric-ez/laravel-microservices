@@ -5,6 +5,15 @@ Simple Laravel Microservices with Docker & RabbitMQ
 
 Copy .env.example to .env & insert your rabbitmq credentials
 
+## Clone repo
+
+```
+git clone https://github.com/ric-ez/laravel-microservices
+cd laravel-microservices
+
+git submodule update --init --recursive
+```
+
 ## Run
 
 ### Inside main repo
